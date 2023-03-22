@@ -28,18 +28,20 @@ body p{
 }
 body a{
     text-decoration: none;
-    color: black;
+    color: #201f1b;
     padding: 15px 55px;
     background: #ffffff;
     font-size: 18px;
     transition: all 0.5s;
     border-radius: 8px;
+    border: 3px solid #ff5e1e;
 }
 
 body a:hover{
     border-radius: 16px;
     background: #ff5e1e;
     color: #ffffff;
+    border: 2px solid white;
 }
 
 

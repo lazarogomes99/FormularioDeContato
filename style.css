@@ -30,6 +30,7 @@ section{
     background: var(--fundo-section);
     width: 550px;
     box-shadow: var(--fundo-section) 3px 6px 15px;
+    border-radius: 20px;
 }
 
 section h2{
@@ -64,6 +65,7 @@ form input{
 
 form input:focus{
     border-radius: 20px;
+    border: 2px solid #ff5e1e;
 }
 
 form textarea{
@@ -78,6 +80,7 @@ form textarea{
 
 form textarea:focus{
     border-radius: 20px;
+    border: 2px solid #ff5e1e;
 }
 
 form button{
